@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**juanfehs/juanfehs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic and Research Projects
+### SAE - Sistema de amortiguación electromagnético (Electromagnetic Amortiguation System)
+Collaborative project developed as part of an academic course.
+- My role: PCB desing and validation, experimental design,
+  evaluation metrics, and interpretation of results.
+- Code repository: https://github.com/martin10ca/sae
+### Code a Chip A51LCihpher
+Collaborative project developed as part of an IEEE SSCS competition of chip desing.
+- My role: Digital desing, theoreticall encryption analysis and programming
+-Code repository: https://github.com/martin10ca/Code_A_Chip_A51LCipher
